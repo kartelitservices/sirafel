@@ -1,3 +1,4 @@
+// product by Kartel IT Services
 import bcrypt from "bcryptjs";
 
 const users = [

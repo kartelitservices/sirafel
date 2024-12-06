@@ -1,24 +1,5 @@
 # SOURCE CODE
-
-1.  <!-- Frontend File (Static File) without Backend -->
-
-    # https://github.com/irenemmassy/frontend-shoeshop
-
-    <!-- LIVE -->
-
-    # https://frontend-shoeshop.herokuapp.com/
-
-2.  <!-- Admin Dashboard File (Static File) without Backend -->
-
-    # https://github.com/irenemmassy/admin-dashboard-shoeshop
-
-    <!-- LIVE ADMIN -->
-
-    # https://admin-dashboard-shoeshop.herokuapp.com/
-
-3.  <!-- FULL ADMIN & CLIENT SOURCE CODE -->
-
-    # https://github.com/irenemmassy/Full-SorceCode-ShoeShop-Ecommerce-Web
+# PRODUCT BY KARTEL IT SERVICES
 
 4.  # SERVER DEPENDENCIES
 

@@ -1,3 +1,4 @@
+// product by Kartel IT Services
 import jwt from "jsonwebtoken";
 
 const generateToken = (id) => {
