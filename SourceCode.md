@@ -9,7 +9,7 @@
 5.  # SERVER .ENV
 
     PORT =
-    NODE_ENV
-    JWT_SECRET
-    PAYPAL_CLIENT_ID
-    MONGO_URL
+    NODE_ENV = 
+    JWT_SECRET = 
+    PAYPAL_CLIENT_ID = 
+    MONGO_URL = 
